@@ -1,4 +1,4 @@
-
+//This program is on Github
 public class Customer extends CustomerIO {
 
 	private String name;
